@@ -26,7 +26,7 @@ h1 {
     align-items: center;
     font-family: "Arial", sans-serif; /* Cambia la fuente según desees */
     position: fixed;
-    top: 20%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1; /* Asegura que esté sobre el efecto 'night' */
@@ -35,7 +35,7 @@ h1 {
   }
   
   h1.visible {
-    top: 5%; /* Muestra el h1 en el centro de la pantalla */
+    top: 10%; /* Muestra el h1 en el centro de la pantalla */
     opacity: 1; /* Hace que el h1 sea completamente visible */
   }
 
